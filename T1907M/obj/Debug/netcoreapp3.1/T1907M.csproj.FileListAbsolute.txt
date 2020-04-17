@@ -1,0 +1,13 @@
+C:\Users\asuspc\RiderProjects\T1907M\T1907M\bin\Debug\netcoreapp3.1\T1907M.exe
+C:\Users\asuspc\RiderProjects\T1907M\T1907M\bin\Debug\netcoreapp3.1\T1907M.deps.json
+C:\Users\asuspc\RiderProjects\T1907M\T1907M\bin\Debug\netcoreapp3.1\T1907M.runtimeconfig.json
+C:\Users\asuspc\RiderProjects\T1907M\T1907M\bin\Debug\netcoreapp3.1\T1907M.runtimeconfig.dev.json
+C:\Users\asuspc\RiderProjects\T1907M\T1907M\bin\Debug\netcoreapp3.1\T1907M.dll
+C:\Users\asuspc\RiderProjects\T1907M\T1907M\bin\Debug\netcoreapp3.1\T1907M.pdb
+C:\Users\asuspc\RiderProjects\T1907M\T1907M\obj\Debug\netcoreapp3.1\T1907M.csprojAssemblyReference.cache
+C:\Users\asuspc\RiderProjects\T1907M\T1907M\obj\Debug\netcoreapp3.1\T1907M.csproj.CoreCompileInputs.cache
+C:\Users\asuspc\RiderProjects\T1907M\T1907M\obj\Debug\netcoreapp3.1\T1907M.AssemblyInfoInputs.cache
+C:\Users\asuspc\RiderProjects\T1907M\T1907M\obj\Debug\netcoreapp3.1\T1907M.AssemblyInfo.cs
+C:\Users\asuspc\RiderProjects\T1907M\T1907M\obj\Debug\netcoreapp3.1\T1907M.dll
+C:\Users\asuspc\RiderProjects\T1907M\T1907M\obj\Debug\netcoreapp3.1\T1907M.pdb
+C:\Users\asuspc\RiderProjects\T1907M\T1907M\obj\Debug\netcoreapp3.1\T1907M.genruntimeconfig.cache

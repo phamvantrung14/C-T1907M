@@ -1,0 +1,13 @@
+C:\Users\asuspc\RiderProjects\T1907M\Lap02\bin\Debug\netcoreapp3.1\Lap02.exe
+C:\Users\asuspc\RiderProjects\T1907M\Lap02\bin\Debug\netcoreapp3.1\Lap02.deps.json
+C:\Users\asuspc\RiderProjects\T1907M\Lap02\bin\Debug\netcoreapp3.1\Lap02.runtimeconfig.json
+C:\Users\asuspc\RiderProjects\T1907M\Lap02\bin\Debug\netcoreapp3.1\Lap02.runtimeconfig.dev.json
+C:\Users\asuspc\RiderProjects\T1907M\Lap02\bin\Debug\netcoreapp3.1\Lap02.dll
+C:\Users\asuspc\RiderProjects\T1907M\Lap02\bin\Debug\netcoreapp3.1\Lap02.pdb
+C:\Users\asuspc\RiderProjects\T1907M\Lap02\obj\Debug\netcoreapp3.1\Lap02.csprojAssemblyReference.cache
+C:\Users\asuspc\RiderProjects\T1907M\Lap02\obj\Debug\netcoreapp3.1\Lap02.csproj.CoreCompileInputs.cache
+C:\Users\asuspc\RiderProjects\T1907M\Lap02\obj\Debug\netcoreapp3.1\Lap02.AssemblyInfoInputs.cache
+C:\Users\asuspc\RiderProjects\T1907M\Lap02\obj\Debug\netcoreapp3.1\Lap02.AssemblyInfo.cs
+C:\Users\asuspc\RiderProjects\T1907M\Lap02\obj\Debug\netcoreapp3.1\Lap02.dll
+C:\Users\asuspc\RiderProjects\T1907M\Lap02\obj\Debug\netcoreapp3.1\Lap02.pdb
+C:\Users\asuspc\RiderProjects\T1907M\Lap02\obj\Debug\netcoreapp3.1\Lap02.genruntimeconfig.cache
