@@ -11,7 +11,7 @@ namespace Lap02
         private int qty;
         private string image;
         private string desc;
-        List<Product> gallery = new List<Product>();
+        private List<string> gallery;
       
         public Product()
         {
@@ -33,11 +33,9 @@ namespace Lap02
            
         }
 
-        public void QtyInfo(int qty)
+        public void QtyInfo()
         {
-           
-                
-                if (qty.Equals(0))
+            if (qty.Equals(0))
                 {
                     Console.WriteLine("hết hàng");
                 }
