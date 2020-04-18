@@ -24,7 +24,10 @@ namespace Lap02
             this.qty = qty;
             this.image = image;
             this.desc = desc;
+            //this.gallery = gallery;
         }
+
+       
         
         public void GetInfo()
         {
