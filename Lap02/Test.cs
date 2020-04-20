@@ -27,13 +27,14 @@ namespace Lap02
         {
             Test test = new Test();
             List<Product> listPd = new List<Product>();
-            Product pd = new Product(11,"Phạm văn A",11,"abc77.png","hang tot");
+            //Product pd = new Product(11,"Phạm văn A",11,"abc77.png","hang tot");
             listPd.Add(new Product(11,"Phạm văn A",11,"abc77.png","hang tot"));
             listPd.Add(new Product(12,"Trần văn B",111,"abc64.png","hang tot"));
             listPd.Add(new Product(13,"Nguyễn thị C",0,"abc1.png","hang tot"));
             listPd.Add(new Product(14,"Trần văn D",8,"abc44.png","hang tot"));
             test.ShowInfo(listPd);
             test.CheckQty(listPd);
+            
         }
     }
 }
