@@ -1,0 +1,13 @@
+C:\Users\asuspc\RiderProjects\T1907M\Book\bin\Debug\netcoreapp3.1\Book.exe
+C:\Users\asuspc\RiderProjects\T1907M\Book\bin\Debug\netcoreapp3.1\Book.deps.json
+C:\Users\asuspc\RiderProjects\T1907M\Book\bin\Debug\netcoreapp3.1\Book.runtimeconfig.json
+C:\Users\asuspc\RiderProjects\T1907M\Book\bin\Debug\netcoreapp3.1\Book.runtimeconfig.dev.json
+C:\Users\asuspc\RiderProjects\T1907M\Book\bin\Debug\netcoreapp3.1\Book.dll
+C:\Users\asuspc\RiderProjects\T1907M\Book\bin\Debug\netcoreapp3.1\Book.pdb
+C:\Users\asuspc\RiderProjects\T1907M\Book\obj\Debug\netcoreapp3.1\Book.csprojAssemblyReference.cache
+C:\Users\asuspc\RiderProjects\T1907M\Book\obj\Debug\netcoreapp3.1\Book.csproj.CoreCompileInputs.cache
+C:\Users\asuspc\RiderProjects\T1907M\Book\obj\Debug\netcoreapp3.1\Book.AssemblyInfoInputs.cache
+C:\Users\asuspc\RiderProjects\T1907M\Book\obj\Debug\netcoreapp3.1\Book.AssemblyInfo.cs
+C:\Users\asuspc\RiderProjects\T1907M\Book\obj\Debug\netcoreapp3.1\Book.dll
+C:\Users\asuspc\RiderProjects\T1907M\Book\obj\Debug\netcoreapp3.1\Book.pdb
+C:\Users\asuspc\RiderProjects\T1907M\Book\obj\Debug\netcoreapp3.1\Book.genruntimeconfig.cache
