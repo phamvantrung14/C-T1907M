@@ -4,11 +4,11 @@ using Microsoft.VisualBasic.CompilerServices;
 
 namespace Lap02
 {
-    public class Product
+    public  class Product
     {
         private int id;
         private string name;
-        private int qty;
+        private int qty { get; set; }
         private string image;
         private string desc;
         private List<string> gallery;
@@ -33,14 +33,14 @@ namespace Lap02
         }
 
 
-        public void GetInfo()
+        public virtual void GetInfo()
         {
             Console.WriteLine("id: "+this.id+" Name: "+this.name+" qty: "+this.qty+" image: "+this.image+" des: "+this.desc);
-            Console.WriteLine("----------------------");
+            
            
         }
 
-        public void QtyInfo()
+        public virtual void QtyInfo()
         {
             if (qty.Equals(0))
                 {

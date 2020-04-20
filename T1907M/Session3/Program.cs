@@ -5,9 +5,9 @@
         public static void Main(string[] args)
         {
             Man m = new Man();
-            m.running();
+            m.Running();
             Woman w = new Woman();
-            w.running();
+            w.Running();
         }
     }
 }

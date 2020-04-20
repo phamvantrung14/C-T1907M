@@ -2,7 +2,7 @@
 
 namespace T1907M.Session3
 {
-    public class Human
+    public abstract class Human
     {
         protected string name;
         protected string age;
@@ -17,9 +17,16 @@ namespace T1907M.Session3
             this.age = age;
         }
 
-        public void running()
+        public abstract void AddFriend();
+
+        public virtual void Running()
         {
             Console.WriteLine("Run...");
+        }
+
+        public void Eat()
+        {
+            Console.WriteLine("...");
         }
     }
 }
