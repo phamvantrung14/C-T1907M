@@ -7,7 +7,6 @@
 
     <ItemGroup>
       <Compile Remove="Program.cs" />
-      <None Include="Program.cs" />
     </ItemGroup>
 
 </Project>

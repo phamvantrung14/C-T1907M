@@ -27,8 +27,12 @@ namespace Lap02
             //this.gallery = gallery;
         }
 
-       
-        
+        public Product(List<string> gallery)
+        {
+            this.gallery = gallery;
+        }
+
+
         public void GetInfo()
         {
             Console.WriteLine("id: "+this.id+" Name: "+this.name+" qty: "+this.qty+" image: "+this.image+" des: "+this.desc);
@@ -40,11 +44,12 @@ namespace Lap02
         {
             if (qty.Equals(0))
                 {
-                    Console.WriteLine("hết hàng");
+                    
+                    Console.WriteLine(this.name+" hết hàng");
                 }
                 else
                 {
-                    Console.WriteLine("Còn hàng");
+                    Console.WriteLine(this.name+" Còn hàng");
                 }
            
         }

@@ -8,6 +8,8 @@
     <ItemGroup>
       <Compile Remove="Program.cs" />
       <None Include="Program.cs" />
+      <Compile Remove="Session2\Session2.cs" />
+      <None Include="Session2\Session2.cs" />
     </ItemGroup>
 
 </Project>
