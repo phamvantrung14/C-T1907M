@@ -1,0 +1,13 @@
+C:\Users\asuspc\RiderProjects\T1907M\QlStudents\bin\Debug\netcoreapp3.1\QlStudents.exe
+C:\Users\asuspc\RiderProjects\T1907M\QlStudents\bin\Debug\netcoreapp3.1\QlStudents.deps.json
+C:\Users\asuspc\RiderProjects\T1907M\QlStudents\bin\Debug\netcoreapp3.1\QlStudents.runtimeconfig.json
+C:\Users\asuspc\RiderProjects\T1907M\QlStudents\bin\Debug\netcoreapp3.1\QlStudents.runtimeconfig.dev.json
+C:\Users\asuspc\RiderProjects\T1907M\QlStudents\bin\Debug\netcoreapp3.1\QlStudents.dll
+C:\Users\asuspc\RiderProjects\T1907M\QlStudents\bin\Debug\netcoreapp3.1\QlStudents.pdb
+C:\Users\asuspc\RiderProjects\T1907M\QlStudents\obj\Debug\netcoreapp3.1\QlStudents.csprojAssemblyReference.cache
+C:\Users\asuspc\RiderProjects\T1907M\QlStudents\obj\Debug\netcoreapp3.1\QlStudents.csproj.CoreCompileInputs.cache
+C:\Users\asuspc\RiderProjects\T1907M\QlStudents\obj\Debug\netcoreapp3.1\QlStudents.AssemblyInfoInputs.cache
+C:\Users\asuspc\RiderProjects\T1907M\QlStudents\obj\Debug\netcoreapp3.1\QlStudents.AssemblyInfo.cs
+C:\Users\asuspc\RiderProjects\T1907M\QlStudents\obj\Debug\netcoreapp3.1\QlStudents.dll
+C:\Users\asuspc\RiderProjects\T1907M\QlStudents\obj\Debug\netcoreapp3.1\QlStudents.pdb
+C:\Users\asuspc\RiderProjects\T1907M\QlStudents\obj\Debug\netcoreapp3.1\QlStudents.genruntimeconfig.cache
