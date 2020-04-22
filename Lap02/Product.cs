@@ -6,30 +6,63 @@ namespace Lap02
 {
     public  class Product
     {
-        private int id;
-        private string name;
-        private int qty { get; set; }
-        private string image;
-        private string desc;
-        private List<string> gallery;
+        protected int id;
+        protected string name;
+        protected int qty;
+        protected string image;
+        protected string desc;
+        protected List<string> gallery;
       
         public Product()
         {
+            this.gallery = new List<string>();
         }
 
-        public Product(int id, string name, int qty, string image, string desc)
+        public Product(int id, string name, int qty, string image, string desc, List<string> gallery)
         {
             this.id = id;
             this.name = name;
             this.qty = qty;
             this.image = image;
             this.desc = desc;
-            //this.gallery = gallery;
+            this.gallery = gallery;
         }
 
-        public Product(List<string> gallery)
+
+        public int Id
         {
-            this.gallery = gallery;
+            get => id;
+            set => id = value;
+        }
+
+        public string Name
+        {
+            get => name;
+            set => name = value;
+        }
+
+        public int Qty
+        {
+            get => qty;
+            set => qty = value;
+        }
+
+        public string Image
+        {
+            get => image;
+            set => image = value;
+        }
+
+        public string Desc
+        {
+            get => desc;
+            set => desc = value;
+        }
+
+        public List<string> Gallery
+        {
+            get => gallery;
+            set => gallery = value;
         }
 
 
@@ -40,23 +73,38 @@ namespace Lap02
            
         }
 
-        public virtual void QtyInfo()
+        public bool CheckStock()
         {
-            if (qty.Equals(0))
-                {
-                    
-                    Console.WriteLine(this.name+" hết hàng");
-                }
-                else
-                {
-                    Console.WriteLine(this.name+" Còn hàng");
-                }
-           
+            if (qty>0)
+            {
+                return true;
+            }
+
+            return false;
         }
 
-        public void addGallery()
+        public bool addGallery(string image)
         {
-            
+            if (gallery.Count>10)
+            {
+                Console.WriteLine("So anh vuot qua so luong, can xoa bot truoc khi them.");
+                return false;
+            }
+            gallery.Add(image);
+            return true;
         }
+
+        public void DeleteGalery()
+        {
+            Console.WriteLine("Danh sach anh gallery:");
+            for (int i = 0; i < gallery.Count; i++)
+            {
+                Console.WriteLine(i+". "+gallery[i]);
+            }
+            Console.WriteLine("Chon anh de xoa: ");
+            int stt = Int32.Parse(Console.ReadLine());
+            gallery.RemoveAt(stt);
+        }
+        
     }
 }
