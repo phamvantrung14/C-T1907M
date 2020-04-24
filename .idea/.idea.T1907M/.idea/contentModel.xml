@@ -86,6 +86,11 @@
           <e p="CustomerVn.cs" t="Include" />
           <e p="Progams.cs" t="Include" />
         </e>
+        <e p="Assiment5" t="Include">
+          <e p="Phone.cs" t="Include" />
+          <e p="PhoneBook.cs" t="Include" />
+          <e p="Program.cs" t="Include" />
+        </e>
         <e p="bin" t="ExcludeRecursive" />
         <e p="Lab_2_3" t="Include">
           <e p="Cart.cs" t="Include" />
@@ -120,6 +125,9 @@
           <e p="Man.cs" t="Include" />
           <e p="Program.cs" t="Include" />
           <e p="Woman.cs" t="Include" />
+        </e>
+        <e p="Session5" t="Include">
+          <e p="Program.cs" t="Include" />
         </e>
         <e p="T1907M.csproj" t="IncludeRecursive" />
       </e>

@@ -42,6 +42,12 @@ namespace T1907M.Lab_2_3
             set => qty = value;
         }
 
+        public List<string> Gallery
+        {
+            get => gallery;
+            //set => gallery = value;
+        }
+
         public string Image
         {
             get => image;
@@ -60,6 +66,11 @@ namespace T1907M.Lab_2_3
             set => price = value;
         }
 
+        public string this[int index]
+        {
+            get { return gallery[index];}
+            set { gallery[index] = value; }
+        }
         public void GetInfo()
         {
             Console.WriteLine("ID: "+this.id+" Name: "+this.name+
