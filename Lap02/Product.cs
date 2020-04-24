@@ -11,6 +11,7 @@ namespace Lap02
         protected int qty;
         protected string image;
         protected string desc;
+        protected double price;
         protected List<string> gallery;
       
         public Product()
@@ -18,7 +19,7 @@ namespace Lap02
             this.gallery = new List<string>();
         }
 
-        public Product(int id, string name, int qty, string image, string desc, List<string> gallery)
+        public Product(int id, string name, int qty, string image, string desc, double price, List<string> gallery)
         {
             this.id = id;
             this.name = name;
@@ -26,8 +27,14 @@ namespace Lap02
             this.image = image;
             this.desc = desc;
             this.gallery = gallery;
+            this.price = price;
         }
 
+        public double Price
+        {
+            get => price;
+            set => price = value;
+        }
 
         public int Id
         {

@@ -8,7 +8,7 @@ namespace Lap02
         private string color;
         private string size;
 
-        public Fashion(int id, string name, int qty, string image, string desc, List<string> gallery, string color, string size) : base(id, name, qty, image, desc, gallery)
+        public Fashion(int id, string name, int qty, string image, string desc,double price, List<string> gallery, string color, string size) : base(id, name, qty, image, desc,price, gallery)
         {
             this.color = color;
             this.size = size;

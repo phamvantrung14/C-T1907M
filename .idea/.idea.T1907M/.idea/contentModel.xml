@@ -48,9 +48,7 @@
       </e>
       <e p="Lap02" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
-        <e p="Cart" t="Include">
-          <e p="Cart.cs" t="Include" />
-        </e>
+        <e p="Cart.cs" t="Include" />
         <e p="Diamon.cs" t="Include" />
         <e p="Fashion.cs" t="Include" />
         <e p="Lap02.csproj" t="IncludeRecursive" />
