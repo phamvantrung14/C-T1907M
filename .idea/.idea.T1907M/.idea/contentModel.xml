@@ -4,6 +4,20 @@
     <e p="C:\Users\asuspc\AppData\local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
     <e p="C:\Users\asuspc\AppData\local\JetBrains\Rider2020.1\resharper-host\local\Transient\ReSharperHost\v201\SolutionCaches\_T1907M.661855048.00" t="ExcludeRecursive" />
     <e p="C:\Users\asuspc\RiderProjects\T1907M" t="IncludeFlat">
+      <e p="Addresbook" t="IncludeRecursive">
+        <e p="Addresbook.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Contact.cs" t="Include" />
+        <e p="ContactList.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Addresbook.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
       <e p="Book" t="IncludeRecursive">
         <e p="AptechBook.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
@@ -64,6 +78,12 @@
       </e>
       <e p="packages" t="ExcludeRecursive" />
       <e p="QlStudents" t="IncludeRecursive">
+        <e p="Ass3_Java" t="Include">
+          <e p="Employee.cs" t="Include" />
+          <e p="PersonModel.cs" t="Include" />
+          <e p="Programs.cs" t="Include" />
+          <e p="Strudent.cs" t="Include" />
+        </e>
         <e p="bin" t="ExcludeRecursive" />
         <e p="ManagementStudent.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
@@ -98,6 +118,10 @@
           <e p="Test.cs" t="Include" />
         </e>
         <e p="lap01.cs" t="Include" />
+        <e p="Lap06" t="Include">
+          <e p="PhepToan.cs" t="Include" />
+          <e p="Programs.cs" t="Include" />
+        </e>
         <e p="Lap2" t="Include">
           <e p="Fashion.cs" t="Include" />
           <e p="gallery.cs" t="Include" />
@@ -126,6 +150,12 @@
         </e>
         <e p="Session5" t="Include">
           <e p="Program.cs" t="Include" />
+        </e>
+        <e p="Session6" t="Include">
+          <e p="Caculator.cs" t="Include" />
+          <e p="Pheptinh.cs" t="Include" />
+          <e p="Programs.cs" t="Include" />
+          <e p="TaxCaic.cs" t="Include" />
         </e>
         <e p="T1907M.csproj" t="IncludeRecursive" />
       </e>

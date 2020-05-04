@@ -36,9 +36,10 @@ namespace QlStudents
                         MgSt.ShowData();
                         break;
                     case 4:
-                       
+                        MgSt.SapXep();
                         break;
                     case 5:
+                        MgSt.SearchingByName();
                         break;
                     case 6:
                         Console.WriteLine("thoat.");

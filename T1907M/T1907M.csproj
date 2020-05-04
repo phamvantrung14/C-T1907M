@@ -18,6 +18,10 @@
       <None Include="Assignment4\Progams.cs" />
       <Compile Remove="Lab_2_3\Test.cs" />
       <None Include="Lab_2_3\Test.cs" />
+      <Compile Remove="Assiment5\Program.cs" />
+      <None Include="Assiment5\Program.cs" />
+      <Compile Remove="Session6\Programs.cs" />
+      <None Include="Session6\Programs.cs" />
     </ItemGroup>
 
 </Project>

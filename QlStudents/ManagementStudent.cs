@@ -1,9 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.Immutable;
+using System.Linq;
 
 namespace QlStudents
 {
-    public class ManagementStudent
+    public class ManagementStudent:Student
     {
         List<Student> listSt = new List<Student>();
 
@@ -39,16 +41,33 @@ namespace QlStudents
             }
         }
 
+        public void SapXep()
+        {
+            for (int i = 0; i < listSt.Count-1; i++)
+            {
+                for (int j = i+1; j < listSt.Count; j++)
+                {
+                    if (listSt[i].averageScore<listSt[j].averageScore)
+                    {
+                        Student st = listSt[i];
+                        listSt.ToImmutableSortedSet();
+                        listSt[j] = st;
+
+                    }
+                }
+            }
+        }
+
         public void SearchingByName()
         {
             Console.WriteLine("nhap tu can tim kiem");
             String seaching = Console.ReadLine();
-           
-            for (int i = 0; i < listSt.Count; i++)
+
+            foreach (var VARIABLE in listSt)
             {
-                if (listSt[i].GetType().Equals(seaching))
+                if (VARIABLE.studentName.Equals(seaching))
                 {
-                    
+                    VARIABLE.display();
                 }
             }
         }

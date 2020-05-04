@@ -5,8 +5,8 @@ namespace QlStudents
     public class Student
     {
         private string studentId { get; set; }
-        private string studentName { get; set; }
-        private double averageScore { get; set; }
+        public string studentName { get; set; }
+        public double averageScore { get; set; }
         
         public Student()
         {
