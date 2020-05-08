@@ -19,5 +19,10 @@ namespace T1907M.Lab_2_3
             if (cara > 5) return true;
             return false;
         }
+
+        public override void Display()
+        {
+            base.Display();
+        }
     }
 }

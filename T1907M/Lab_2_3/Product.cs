@@ -77,6 +77,11 @@ namespace T1907M.Lab_2_3
                               " qty: "+this.qty+" Price: "+this.price);
         }
 
+        public virtual void Display()
+        {
+            Console.WriteLine("Name "+this.name+" - qty: "+this.qty);
+        }
+
         public bool CheckStock()
         {
             /*if (qty>0)

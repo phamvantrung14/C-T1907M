@@ -1,7 +1,9 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 
 namespace T1907M.Lab_2_3
 {
+    public delegate void ButtonHander(string msg);
     public class Cart
     {
         private int id;
@@ -21,9 +23,29 @@ namespace T1907M.Lab_2_3
             this.country = country;
         }
 
+        public event ButtonHander OnClick;
+
+        public void ClickButton(Product product)
+        {
+            Console.WriteLine("Click!");
+            if (OnClick == null)
+            {
+                OnClick += ShowAlert;
+            }
+
+            product.Qty -= 1;
+           
+            OnClick(product.Name+" them sp thanh cong");
+        }
+        public static void ShowAlert(string msg)
+        {
+            Console.WriteLine(msg);
+        }
+
         public bool AddProduct(Product product)
         {
             listProduct.Add(product);
+            ClickButton(product);
             //them tien trong grandtotal
             return true;
         }
@@ -72,6 +94,14 @@ namespace T1907M.Lab_2_3
             else
             {
                 return grand *0.05;
+            }
+        }
+
+        public void display()
+        {
+            for (int i = 0; i < listProduct.Count; i++)
+            {
+                listProduct.ToString();
             }
         }
     }

@@ -16,12 +16,20 @@
       <None Include="Lap2\Test.cs" />
       <Compile Remove="Assignment4\Progams.cs" />
       <None Include="Assignment4\Progams.cs" />
-      <Compile Remove="Lab_2_3\Test.cs" />
-      <None Include="Lab_2_3\Test.cs" />
       <Compile Remove="Assiment5\Program.cs" />
       <None Include="Assiment5\Program.cs" />
       <Compile Remove="Session6\Programs.cs" />
       <None Include="Session6\Programs.cs" />
+      <Compile Remove="Lap06\Programs.cs" />
+      <None Include="Lap06\Programs.cs" />
+      <Compile Remove="Lap06_cb\Lab6.cs" />
+      <None Include="Lap06_cb\Lab6.cs" />
+      <Compile Remove="Session7\Programs.cs" />
+      <None Include="Session7\Programs.cs" />
+      <Compile Remove="Lab_2_3\Test.cs" />
+      <None Include="Lab_2_3\Test.cs" />
+      <Compile Remove="Session8\Session8.cs" />
+      <None Include="Session8\Session8.cs" />
     </ItemGroup>
 
 </Project>

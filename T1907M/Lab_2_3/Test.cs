@@ -18,19 +18,23 @@ namespace T1907M.Lab_2_3
             Cart c1 = new Cart(1,"nguyen hoa",0,new List<Product>(),"HG","VN");
             c1.AddProduct(p1);
             c1.AddProduct(f1);
+            c1.AddProduct(f1);
             c1.AddProduct(d1);
             Console.WriteLine("tjong tien "+c1.FinalTotal());
             foreach (string x in p1.Gallery)
             {
                 Console.WriteLine(x);
             }
-
+                
             p1[1] = "55.jpg";
             Console.WriteLine("************");
             foreach (string x in p1.Gallery)
             {
                 Console.WriteLine(x);
             }
+            Console.WriteLine("**************************");
+            p1.Display();
+            f1.Display();
         }
     }
 }

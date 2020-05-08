@@ -98,6 +98,9 @@
         <e p="Test.cs" t="Include" />
       </e>
       <e p="T1907M" t="IncludeRecursive">
+        <e p="Assigment6_cb" t="Include">
+          <e p="Program.cs" t="Include" />
+        </e>
         <e p="Assignment4" t="Include">
           <e p="Customer.cs" t="Include" />
           <e p="CustomerForeigner.cs" t="Include" />
@@ -121,6 +124,10 @@
         <e p="Lap06" t="Include">
           <e p="PhepToan.cs" t="Include" />
           <e p="Programs.cs" t="Include" />
+        </e>
+        <e p="Lap06_cb" t="Include">
+          <e p="Cals.cs" t="Include" />
+          <e p="Lab6.cs" t="Include" />
         </e>
         <e p="Lap2" t="Include">
           <e p="Fashion.cs" t="Include" />
@@ -156,6 +163,13 @@
           <e p="Pheptinh.cs" t="Include" />
           <e p="Programs.cs" t="Include" />
           <e p="TaxCaic.cs" t="Include" />
+        </e>
+        <e p="Session7" t="Include">
+          <e p="EventDemo.cs" t="Include" />
+          <e p="Programs.cs" t="Include" />
+        </e>
+        <e p="Session8" t="Include">
+          <e p="Session8.cs" t="Include" />
         </e>
         <e p="T1907M.csproj" t="IncludeRecursive" />
       </e>

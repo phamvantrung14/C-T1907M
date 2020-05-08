@@ -29,10 +29,6 @@ namespace T1907M.Lap06
         {
             KetQua kq = PhepToan.GetPt("+");
             Input();
-            /*Console.WriteLine("Moi nhap a");
-            this.a = Int32.Parse(Console.ReadLine());
-            Console.WriteLine("Moi nhap b");
-            this.b= Int32.Parse(Console.ReadLine());*/
             int d = (int) kq(a, b);
             Console.WriteLine("Ket qua: "+d);
         }
@@ -40,7 +36,6 @@ namespace T1907M.Lap06
         {
             KetQua kq = PhepToan.GetPt("-");
             Input();
-            
             int d = (int) kq(a, b);
             Console.WriteLine("Ket qua: "+d);
         }
@@ -48,7 +43,6 @@ namespace T1907M.Lap06
         {
             KetQua kq = PhepToan.GetPt("*");
             Input();
-            
             int d = (int) kq(a, b);
             Console.WriteLine("Ket qua: "+d);
         }
