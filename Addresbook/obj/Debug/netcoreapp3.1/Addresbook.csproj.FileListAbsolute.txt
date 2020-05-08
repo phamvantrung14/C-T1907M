@@ -1,0 +1,13 @@
+C:\Users\asuspc\RiderProjects\T1907M\Addresbook\bin\Debug\netcoreapp3.1\Addresbook.exe
+C:\Users\asuspc\RiderProjects\T1907M\Addresbook\bin\Debug\netcoreapp3.1\Addresbook.deps.json
+C:\Users\asuspc\RiderProjects\T1907M\Addresbook\bin\Debug\netcoreapp3.1\Addresbook.runtimeconfig.json
+C:\Users\asuspc\RiderProjects\T1907M\Addresbook\bin\Debug\netcoreapp3.1\Addresbook.runtimeconfig.dev.json
+C:\Users\asuspc\RiderProjects\T1907M\Addresbook\bin\Debug\netcoreapp3.1\Addresbook.dll
+C:\Users\asuspc\RiderProjects\T1907M\Addresbook\bin\Debug\netcoreapp3.1\Addresbook.pdb
+C:\Users\asuspc\RiderProjects\T1907M\Addresbook\obj\Debug\netcoreapp3.1\Addresbook.csprojAssemblyReference.cache
+C:\Users\asuspc\RiderProjects\T1907M\Addresbook\obj\Debug\netcoreapp3.1\Addresbook.csproj.CoreCompileInputs.cache
+C:\Users\asuspc\RiderProjects\T1907M\Addresbook\obj\Debug\netcoreapp3.1\Addresbook.AssemblyInfoInputs.cache
+C:\Users\asuspc\RiderProjects\T1907M\Addresbook\obj\Debug\netcoreapp3.1\Addresbook.AssemblyInfo.cs
+C:\Users\asuspc\RiderProjects\T1907M\Addresbook\obj\Debug\netcoreapp3.1\Addresbook.dll
+C:\Users\asuspc\RiderProjects\T1907M\Addresbook\obj\Debug\netcoreapp3.1\Addresbook.pdb
+C:\Users\asuspc\RiderProjects\T1907M\Addresbook\obj\Debug\netcoreapp3.1\Addresbook.genruntimeconfig.cache
