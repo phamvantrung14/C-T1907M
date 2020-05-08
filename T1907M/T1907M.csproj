@@ -30,6 +30,8 @@
       <None Include="Lab_2_3\Test.cs" />
       <Compile Remove="Session8\Session8.cs" />
       <None Include="Session8\Session8.cs" />
+      <Compile Remove="Assigment6_cb\Program.cs" />
+      <None Include="Assigment6_cb\Program.cs" />
     </ItemGroup>
 
 </Project>

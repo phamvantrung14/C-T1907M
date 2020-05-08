@@ -107,6 +107,11 @@
           <e p="CustomerVn.cs" t="Include" />
           <e p="Progams.cs" t="Include" />
         </e>
+        <e p="Assignment7" t="Include">
+          <e p="Program.cs" t="Include" />
+          <e p="Student.cs" t="Include" />
+          <e p="StudentManager.cs" t="Include" />
+        </e>
         <e p="Assiment5" t="Include">
           <e p="Phone.cs" t="Include" />
           <e p="PhoneBook.cs" t="Include" />
