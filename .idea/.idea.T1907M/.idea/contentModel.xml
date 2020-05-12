@@ -32,6 +32,46 @@
         </e>
         <e p="Test.cs" t="Include" />
       </e>
+      <e p="Exercise" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Exercise.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Exercise.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="Exercise2" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Data.cs" t="Include" />
+        <e p="Exercise2.csproj" t="IncludeRecursive" />
+        <e p="Lion.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Exercise2.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Tiger.cs" t="Include" />
+      </e>
+      <e p="GeometryExample" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Cylinder.cs" t="Include" />
+        <e p="GeometryExample.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="GeometryExample.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
       <e p="Hotel" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="Book.cs" t="Include" />
