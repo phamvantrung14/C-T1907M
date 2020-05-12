@@ -1,0 +1,13 @@
+C:\Users\asuspc\RiderProjects\T1907M\GeometryExample\bin\Debug\netcoreapp3.1\GeometryExample.exe
+C:\Users\asuspc\RiderProjects\T1907M\GeometryExample\bin\Debug\netcoreapp3.1\GeometryExample.deps.json
+C:\Users\asuspc\RiderProjects\T1907M\GeometryExample\bin\Debug\netcoreapp3.1\GeometryExample.runtimeconfig.json
+C:\Users\asuspc\RiderProjects\T1907M\GeometryExample\bin\Debug\netcoreapp3.1\GeometryExample.runtimeconfig.dev.json
+C:\Users\asuspc\RiderProjects\T1907M\GeometryExample\bin\Debug\netcoreapp3.1\GeometryExample.dll
+C:\Users\asuspc\RiderProjects\T1907M\GeometryExample\bin\Debug\netcoreapp3.1\GeometryExample.pdb
+C:\Users\asuspc\RiderProjects\T1907M\GeometryExample\obj\Debug\netcoreapp3.1\GeometryExample.csprojAssemblyReference.cache
+C:\Users\asuspc\RiderProjects\T1907M\GeometryExample\obj\Debug\netcoreapp3.1\GeometryExample.csproj.CoreCompileInputs.cache
+C:\Users\asuspc\RiderProjects\T1907M\GeometryExample\obj\Debug\netcoreapp3.1\GeometryExample.AssemblyInfoInputs.cache
+C:\Users\asuspc\RiderProjects\T1907M\GeometryExample\obj\Debug\netcoreapp3.1\GeometryExample.AssemblyInfo.cs
+C:\Users\asuspc\RiderProjects\T1907M\GeometryExample\obj\Debug\netcoreapp3.1\GeometryExample.dll
+C:\Users\asuspc\RiderProjects\T1907M\GeometryExample\obj\Debug\netcoreapp3.1\GeometryExample.pdb
+C:\Users\asuspc\RiderProjects\T1907M\GeometryExample\obj\Debug\netcoreapp3.1\GeometryExample.genruntimeconfig.cache
